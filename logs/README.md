@@ -1,0 +1,1 @@
+This folder constains output results of executions.
