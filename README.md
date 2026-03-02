@@ -12,7 +12,6 @@ Models:
 - Kimi-Audio-7B-Instruct (requires flash_att)
 
 Benchmarks:
-- MMAU
 - MMAU-v05.15.25
 - MMAR
 - MMSU
@@ -31,9 +30,7 @@ pip install -r requirements.txt
 This repository contains:
 
 ## Data
-- **Original benchmarks**: MMAU-v05.15.25, MMAR, and MMSU datasets
-- **Rephrased variants**: Question and answer rephrasing across different models
-- **Permuted versions**: Choice order variations for robustness testing
+We put here the different versions of the benchmarks (json): original, rephrased questions, rephrased distractors and mix or perturbations.
 
 ## Models
 The evaluation framework supports:
@@ -42,13 +39,6 @@ The evaluation framework supports:
 - Kimi-Audio-7B-Instruct
 
 ## Scripts
-- **Generation scripts**: Create rephrased datasets and permutations
-- **Evaluation scripts**: Calculate accuracy and consistency metrics
-- **Analysis tools**: Compute robustness measures including Consistency Rate (CR) and Consistent and Correct Rate (CCR)
-
-## Evaluation Framework
-The repository implements a comprehensive evaluation protocol that:
-- Tests choice ordering sensitivity
-- Evaluates question/answer rephrasing robustness
-- Measures consistency across variations
-- Provides detailed robustness metrics beyond simple accuracy
+- **Run permutations**: Create rephrased datasets, ordering perturbations or mix of perturbations
+- **Inference**: Inference code per each model.
+- **Evaluation**: Compute robustness measures: Consistency Rate (CR) and Consistent and Correct Rate (CCR)

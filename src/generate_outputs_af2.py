@@ -1,8 +1,3 @@
-# Copyright (c) 2025 Anonymous. 
-#   Licensed under the MIT license.
-
-
-
 import os
 import io
 import sys
