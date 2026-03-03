@@ -2,7 +2,6 @@
 notebooks/.ipynb_checkpoints
 results/
 models/
-data/
 
 __pycache__/
 

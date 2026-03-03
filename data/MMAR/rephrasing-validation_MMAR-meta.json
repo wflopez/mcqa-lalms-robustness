@@ -1,0 +1,1221 @@
+{
+    "LGs_vGt0MY8_00-00-01_00-00-31": {
+        "original": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "An adventure story about Western cowboys",
+                "A melancholic and sad story set in the East",
+                "An epic war film celebrating victory",
+                "A cheerful campus youth movie"
+            ],
+            "answer": "A melancholic and sad story set in the East",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-a-with-d_gemma-3-12b-it": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "An adventure story about Western cowboys",
+                "A sad story set in the East.",
+                "An epic war film celebrating victory",
+                "A cheerful campus youth movie"
+            ],
+            "answer": "A sad story set in the East.",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-1": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "An adventure story about Western cowboys",
+                "An Eastern story with a sorrowful tone",
+                "An epic war film celebrating victory",
+                "A cheerful campus youth movie"
+            ],
+            "answer": "An Eastern story with a sorrowful tone",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-2": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "An adventure story about Western cowboys",
+                "A somber narrative set in the East",
+                "An epic war film celebrating victory",
+                "A cheerful campus youth movie"
+            ],
+            "answer": "A somber narrative set in the East",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-3": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "An adventure story about Western cowboys",
+                "A melancholic Eastern tale",
+                "An epic war film celebrating victory",
+                "A cheerful campus youth movie"
+            ],
+            "answer": "A melancholic Eastern tale",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-a-with-qd_gemma-3-12b-it": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "An adventure story about Western cowboys",
+                "A movie with a melancholic and sad tone, set in the East.",
+                "An epic war film celebrating victory",
+                "A cheerful campus youth movie"
+            ],
+            "answer": "A movie with a melancholic and sad tone, set in the East.",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-a-with-q_gemma-3-12b-it": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "An adventure story about Western cowboys",
+                "It would be suitable for a sad, Eastern-set film.",
+                "An epic war film celebrating victory",
+                "A cheerful campus youth movie"
+            ],
+            "answer": "It would be suitable for a sad, Eastern-set film.",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-d-with-a_gemma-3-12b-it": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "A tale of daring exploits among Western cowboys.",
+                "A melancholic and sad story set in the East",
+                "A triumphant film depicting a successful military campaign",
+                "A lighthearted film focusing on college students"
+            ],
+            "answer": "A melancholic and sad story set in the East",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-1": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "A thrilling tale of cowboys in the Wild West",
+                "A melancholic and sad story set in the East",
+                "A grand historical war movie depicting triumph",
+                "A joyous film depicting student life at a university."
+            ],
+            "answer": "A melancholic and sad story set in the East",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-2": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "A frontier adventure featuring American cowboys",
+                "A melancholic and sad story set in the East",
+                "A large-scale battle film about a glorious victory",
+                "An upbeat movie about young people's experiences on a college campus."
+            ],
+            "answer": "A melancholic and sad story set in the East",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-3": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "A Western film depicting cowboy exploits",
+                "A melancholic and sad story set in the East",
+                "An expansive military picture celebrating a successful campaign",
+                "A lighthearted coming-of-age story set in a school environment."
+            ],
+            "answer": "A melancholic and sad story set in the East",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-d-with-qa_gemma-3-12b-it": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "A film depicting daring exploits in the American West.",
+                "A melancholic and sad story set in the East",
+                "A triumphant war film depicting a successful battle",
+                "A lighthearted film about college students"
+            ],
+            "answer": "A melancholic and sad story set in the East",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        },
+        "rephrased-d-with-q_gemma-3-12b-it": {
+            "id": "LGs_vGt0MY8_00-00-01_00-00-31",
+            "audio_path": "./audio/LGs_vGt0MY8_00-00-01_00-00-31.wav",
+            "question": "This piece could serve as background music for what kind of movie",
+            "choices": [
+                "A film depicting daring exploits in the Wild West.",
+                "A melancholic and sad story set in the East",
+                "A triumphant film depicting a military victory",
+                "A lighthearted film about college students"
+            ],
+            "answer": "A melancholic and sad story set in the East",
+            "modality": "music",
+            "category": "Cultural Layer",
+            "sub-category": "Professional Knowledge and Reasoning",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/watch?v=LGs_vGt0MY8",
+            "timestamp": "00:00:01,00:00:31"
+        }
+    },
+    "PXEbq5pVPGs_00-00-00_00-00-25": {
+        "original": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "Concert venue",
+                "Classroom",
+                "Cafe",
+                "Conference hall"
+            ],
+            "answer": "Concert venue",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-a-with-d_gemma-3-12b-it": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "A concert venue.",
+                "Classroom",
+                "Cafe",
+                "Conference hall"
+            ],
+            "answer": "A concert venue.",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-1": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "A location for concerts",
+                "Classroom",
+                "Cafe",
+                "Conference hall"
+            ],
+            "answer": "A location for concerts",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-2": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "A place where musical performances are held",
+                "Classroom",
+                "Cafe",
+                "Conference hall"
+            ],
+            "answer": "A place where musical performances are held",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-3": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "A concert hall",
+                "Classroom",
+                "Cafe",
+                "Conference hall"
+            ],
+            "answer": "A concert hall",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-a-with-qd_gemma-3-12b-it": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "The audio was recorded at a concert venue.",
+                "Classroom",
+                "Cafe",
+                "Conference hall"
+            ],
+            "answer": "The audio was recorded at a concert venue.",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-a-with-q_gemma-3-12b-it": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "...",
+                "Classroom",
+                "Cafe",
+                "Conference hall"
+            ],
+            "answer": "...",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-d-with-a_gemma-3-12b-it": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "Concert venue",
+                "Lecture hall",
+                "Coffee shop",
+                "&ensp;Meeting room"
+            ],
+            "answer": "Concert venue",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-1": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "Concert venue",
+                "A learning environment for students",
+                "Coffee shop",
+                "A convention center"
+            ],
+            "answer": "Concert venue",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-2": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "Concert venue",
+                "An academic instruction room",
+                "Coffee house",
+                "A large meeting room"
+            ],
+            "answer": "Concert venue",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-3": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "Concert venue",
+                "A teaching and study area",
+                "An establishment serving coffee and light meals",
+                "An event space for professional gatherings"
+            ],
+            "answer": "Concert venue",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-d-with-qa_gemma-3-12b-it": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "Concert venue",
+                "Lecture hall",
+                "Coffee shop",
+                "Meeting room"
+            ],
+            "answer": "Concert venue",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        },
+        "rephrased-d-with-q_gemma-3-12b-it": {
+            "id": "PXEbq5pVPGs_00-00-00_00-00-25",
+            "audio_path": "./audio/PXEbq5pVPGs_00-00-00_00-00-25.wav",
+            "question": "In what setting does the audio occur?",
+            "choices": [
+                "Concert venue",
+                "```",
+                "Coffee shop",
+                "Meeting room"
+            ],
+            "answer": "Concert venue",
+            "modality": "mix-music-speech",
+            "category": "Perception Layer",
+            "sub-category": "Environmental Perception and Reasoning",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/PXEbq5pVPGs",
+            "timestamp": "00:00:00,00:00:25"
+        }
+    },
+    "pPtSa4eN3vU_00-00-21_00-00-25": {
+        "original": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "Noodles",
+                "Dumplings",
+                "Porridge",
+                "Rice"
+            ],
+            "answer": "Noodles",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-a-with-d_gemma-3-12b-it": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "Noodles",
+                "Dumplings",
+                "Porridge",
+                "Rice"
+            ],
+            "answer": "Noodles",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-1": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "Noodles",
+                "Dumplings",
+                "Porridge",
+                "Rice"
+            ],
+            "answer": "Noodles",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-2": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "The noodles",
+                "Dumplings",
+                "Porridge",
+                "Rice"
+            ],
+            "answer": "The noodles",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-3": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "A noodle dish",
+                "Dumplings",
+                "Porridge",
+                "Rice"
+            ],
+            "answer": "A noodle dish",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-a-with-qd_gemma-3-12b-it": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "He is eating noodles.",
+                "Dumplings",
+                "Porridge",
+                "Rice"
+            ],
+            "answer": "He is eating noodles.",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-a-with-q_gemma-3-12b-it": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "He is eating noodles.",
+                "Dumplings",
+                "Porridge",
+                "Rice"
+            ],
+            "answer": "He is eating noodles.",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-d-with-a_gemma-3-12b-it": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "Noodles",
+                "Wrappers filled with meat",
+                "Oatmeal",
+                "Grains"
+            ],
+            "answer": "Noodles",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-1": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "Noodles",
+                "Filled dough pockets",
+                "Congee",
+                "White rice"
+            ],
+            "answer": "Noodles",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-2": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "Noodles",
+                "Savory stuffed dough balls",
+                "A warm, soupy cereal", 
+                "Steamed rice"
+            ],
+            "answer": "Noodles",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-3": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "Noodles",
+                "Small parcels of dough with a filling",
+                "Grain cooked in liquid to a soft consistency",
+                "Cooked rice"
+            ],
+            "answer": "Noodles",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-d-with-qa_gemma-3-12b-it": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "Noodles",
+                "Potstickers",
+                "Oatmeal",
+                "Grains"
+            ],
+            "answer": "Noodles",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        },
+        "rephrased-d-with-q_gemma-3-12b-it": {
+            "id": "pPtSa4eN3vU_00-00-21_00-00-25",
+            "audio_path": "./audio/pPtSa4eN3vU_00-00-21_00-00-25.wav",
+            "question": "What is he eating?",
+            "choices": [
+                "Noodles",
+                "of Dumplings",
+                "```json",
+                "of Rice"
+            ],
+            "answer": "Noodles",
+            "modality": "sound",
+            "category": "Perception Layer",
+            "sub-category": "Correlation Analysis",
+            "language": null,
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/pPtSa4eN3vU",
+            "timestamp": "00:00:21,00:00:25"
+        }
+    },
+    "iOzblCh7ThY_00-00-25_00-00-51": {
+        "original": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "Yes",
+                "No"
+            ],
+            "answer": "No",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-a-with-d_gemma-3-12b-it": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "Yes",
+                "That is incorrect."
+            ],
+            "answer": "That is incorrect.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-1": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "Yes",
+                "He is not asking for leave due to illness."
+            ],
+            "answer": "He is not asking for leave due to illness.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-2": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "Yes",
+                "It is not because of illness that he's asking for leave."
+            ],
+            "answer": "It is not because of illness that he's asking for leave.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-3": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "Yes",
+                "His leave request is not illness-related."
+            ],
+            "answer": "His leave request is not illness-related.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-a-with-qd_gemma-3-12b-it": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "Yes",
+                "The man is not requesting leave due to illness."
+            ],
+            "answer": "The man is not requesting leave due to illness.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-a-with-q_gemma-3-12b-it": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "Yes",
+                "He is not requesting leave due to illness."
+            ],
+            "answer": "He is not requesting leave due to illness.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-d-with-a_gemma-3-12b-it": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "Affirmative",
+                "No"
+            ],
+            "answer": "No",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-1": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "He is indeed requesting time off due to his sickness.",
+                "No"
+            ],
+            "answer": "No",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-2": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "The audio confirms he is taking leave for health reasons.",
+                "No"
+            ],
+            "answer": "No",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-3": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "His request for absence is genuinely based on his poor health.",
+                "No"
+            ],
+            "answer": "No",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-d-with-qa_gemma-3-12b-it": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "Affirmative",
+                "No"
+            ],
+            "answer": "No",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        },
+        "rephrased-d-with-q_gemma-3-12b-it": {
+            "id": "iOzblCh7ThY_00-00-25_00-00-51",
+            "audio_path": "./audio/iOzblCh7ThY_00-00-25_00-00-51.wav",
+            "question": "Is the man in the audio really asking for leave because of illness?",
+            "choices": [
+                "Affirmative.",
+                "No"
+            ],
+            "answer": "No",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "en",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/iOzblCh7ThY",
+            "timestamp": "00:00:25,00:00:51"
+        }
+    },
+    "watYlFhln7I_00-00-00_00-00-30": {
+        "original": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "1",
+                "3",
+                "4",
+                "2"
+            ],
+            "answer": "1",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-a-with-d_gemma-3-12b-it": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "The correct answer is 1.",
+                "3",
+                "4",
+                "2"
+            ],
+            "answer": "The correct answer is 1.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-1": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "One plot segment.",
+                "3",
+                "4",
+                "2"
+            ],
+            "answer": "One plot segment.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-2": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "A single plot segment.",
+                "3",
+                "4",
+                "2"
+            ],
+            "answer": "A single plot segment.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-a-with-qd_gemini-2.5-flash-3": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "Only one plot segment.",
+                "3",
+                "4",
+                "2"
+            ],
+            "answer": "Only one plot segment.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-a-with-qd_gemma-3-12b-it": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "There is one plot segment.",
+                "3",
+                "4",
+                "2"
+            ],
+            "answer": "There is one plot segment.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-a-with-q_gemma-3-12b-it": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "There is one plot segment.",
+                "3",
+                "4",
+                "2"
+            ],
+            "answer": "There is one plot segment.",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-d-with-a_gemma-3-12b-it": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "1",
+                "5",
+                "2",
+                "5"
+            ],
+            "answer": "1",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-1": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "1",
+                "The value is three",
+                "It's four segments.",
+                "Two"
+            ],
+            "answer": "1",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-2": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "1",
+                "It is three",
+                "A total of four plot segments.",
+                "A pair"
+            ],
+            "answer": "1",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-d-with-qa_gemini-2.5-flash-3": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "1",
+                "Three in total",
+                "The number of plot segments is 4.",
+                "A couple"
+            ],
+            "answer": "1",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-d-with-qa_gemma-3-12b-it": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "1",
+                "Three",
+                "Four",
+                "Two"
+            ],
+            "answer": "1",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        },
+        "rephrased-d-with-q_gemma-3-12b-it": {
+            "id": "watYlFhln7I_00-00-00_00-00-30",
+            "audio_path": "./audio/watYlFhln7I_00-00-00_00-00-30.wav",
+            "question": "How many plot segments correspond to this video?",
+            "choices": [
+                "1",
+                "Rationale:",
+                "Four",
+                "Two"
+            ],
+            "answer": "1",
+            "modality": "speech",
+            "category": "Semantic Layer",
+            "sub-category": "Content Analysis",
+            "language": "zh|en|ja|ko",
+            "source": "youtube",
+            "url": "https://www.youtube.com/shorts/watYlFhln7I",
+            "timestamp": "00:00:00,00:00:30"
+        }
+    }
+}
